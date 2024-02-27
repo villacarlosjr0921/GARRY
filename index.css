@@ -1,0 +1,30 @@
+body{
+    background-color: lavender;
+}
+header h1{
+    text-align: center;
+}
+header ul{
+    text-align: center;
+    color: teal;
+    
+}
+header li{
+    list-style: none;
+    display: inline-block;
+}
+header a{
+    text-decoration: none;
+    margin: 15px;
+    color :teal;
+}
+#about h2{
+    text-align: center;
+    color: teal;
+}
+#about p, h4{
+    color: rgb(17, 128, 0);
+}
+h2, h3, figcaption, li, p{
+    color: teal;
+}
